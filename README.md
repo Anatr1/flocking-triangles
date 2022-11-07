@@ -3,5 +3,5 @@ Simple application written in Processing to simulate different swarms of triangl
 Each swarm is hunting another swarm and each of them is hunted by one. 
 
 
-![Screenshot](./img/screenshot1.png)
-![Screenshot](./img/screenshot2.png)
+![Screenshot](./screenshot1.png)
+![Screenshot](./screenshot2.png)
